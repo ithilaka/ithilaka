@@ -62,6 +62,18 @@ I work with business and transactional datasets to uncover performance drivers, 
 ![ER Diagram](https://raw.githubusercontent.com/ithilaka/SQL-Data-Analysis/main/E-commerce/ERDiagram.png)
 
 ---
+### Python / Statistical Modeling
+
+#### Electricity Demand Forecasting
+
+[View Project](https://github.com/ithilaka/data-science/tree/main/electricity-demand-forecasting)
+
+- **Goal:** Forecast daily electricity demand using historical consumption and weather data.
+- **Analysis:** Data cleaning, exploratory data analysis, seasonal analysis, feature engineering, and residual analysis.
+- **Models:** 1-Day Naive, 7-Day Seasonal Naive, Multiple Linear Regression
+- **Features:** Temperature, precipitation, weekend indicator, 1-day lag, and 7-day lag
+- **Model Evaluation:** MAE, RMSE, WAPE, and Forecast Bias
+- **Tools:** Python, Pandas, Matplotlib, Statsmodels, Scikit-learn, Jupyter Notebook
 
 ## Certificates
 
