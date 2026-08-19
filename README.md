@@ -12,6 +12,7 @@ Data Analyst focused on turning raw business data into clear, actionable insight
 - [Portfolio Projects](#portfolio-projects)
   - [Excel](#excel)
   - [SQL](#sql)
+  - [ Python] /(# Statistical Modeling)
 - [Certificates](#certificates)
 - [Contact](#contact)
 
